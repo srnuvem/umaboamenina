@@ -1,5 +1,5 @@
 // Define the start date directly in the script
-const startDate = new Date("2024-11-28"); // Defina sua data inicial
+const startDate = new Date("2024-11-22"); // Defina sua data inicial
 const currentDate = new Date();
 
 // Calculate the difference in time (in milliseconds)
